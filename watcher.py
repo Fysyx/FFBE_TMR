@@ -14,6 +14,7 @@ import sys
 # Turn on continuous auto for everything
 # Create a filter for friend units so no companion will ever be displayed (1* with level 8 black magic)
 # Must start at earth shrine quest select
+# TODO: https://stackoverflow.com/questions/7853628/how-do-i-find-an-image-contained-within-an-image
 
 pyautogui.FAILSAFE = True
 
